@@ -24,8 +24,8 @@ const Billing = () => (
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
-        <img src={apple} alt="apple_store" className="w-[128px] h-[42px] object-contain mr-5 cursor-pointer opacity-100 hover:opacity-70 transition duration-300 ease-in-out" />
-        <img src={google} alt="google_store" className="w-[128px] h-[42px] object-contain mr-5 cursor-pointer opacity-100 hover:opacity-70 transition duration-300 ease-in-out" />
+        <img src={apple} alt="apple_store" className="w-[128px] h-[42px] object-contain mr-5 cursor-pointer opacity-90 hover:opacity-100 transition duration-300 ease-in-out" />
+        <img src={google} alt="google_store" className="w-[128px] h-[42px] object-contain mr-5 cursor-pointer opacity-90 hover:opacity-100 transition duration-300 ease-in-out" />
       </div>
     </div>
   </section>
