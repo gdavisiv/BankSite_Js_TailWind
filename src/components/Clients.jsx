@@ -1,9 +1,8 @@
-import React from 'react'
+import { clients } from "../constants";
+import styles from "../style";
 
-const Clients = () => {
-  return (
+const Clients = () => (
     <div>Clients</div>
-  )
-}
+)
 
-export default Clients
+export default Clients;
